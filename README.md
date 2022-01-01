@@ -31,7 +31,7 @@
 - 🤔 My hobbies are **Food and reading**.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
-- This is my email: **cyolc932@gmail.com**.
+- This is my email: **🕳@gmail.com**.
 
 
 
