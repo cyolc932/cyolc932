@@ -1,4 +1,4 @@
-### Hey 👋, I'm DC Yang.
+### Hey 👋, I'm DC 🐏.
 
 <a href="https://github.com/cyolc932/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
