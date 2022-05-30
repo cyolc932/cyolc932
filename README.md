@@ -21,7 +21,7 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
-<img align="right" alt="gif" width="250px" src="https://github.com/cyolc932/cyolc932/main/avatar.gif" />
+<img align="right" alt="jpg" width="250px" src="https://raw.githubusercontent.com/cyolc932/cyolc932/main/Panda.png" />
 
 **Talking about Personal Stuffs:**
 
