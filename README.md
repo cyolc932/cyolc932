@@ -1,11 +1,14 @@
 ### Hey 👋, I'm DC 🐏.
 
-<!-- 记录访问数量 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
 
 <!-- 展示连续提交代码的次数 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyolc932&hide_border=true)](https://git.io/streak-stats)
 <br />
+
+
+<!-- 记录访问数量 -->
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
+
 
 - I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
