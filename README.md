@@ -22,7 +22,9 @@
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **🕳@gmail.com**.
 
----
+
+<!-- --- -->
+
 
 # 🚀 Actions
 
@@ -38,7 +40,9 @@
 <!-- 记录访问数量 -->
 https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1/>
 
----
+
+<!-- --- -->
+
 
 <!-- 正在学习 -->
 💪 Currently learning: 
@@ -81,6 +85,7 @@ https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -93,10 +98,13 @@ https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
----
+
+<!-- --- -->
+
 
 <!-- 语言和工具 -->
 **Languages and Tools:**  
