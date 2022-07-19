@@ -25,10 +25,10 @@
 
 # 🚀 Actions
 
-<!-- 连续提交代码天数记录 -->
+<!-- 连续提交代码天数记录 -->https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=cyolc932&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=cyolc932&theme=github-light&hide_border=%E7%9C%9F%E7%9A%84)" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyolc932&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
