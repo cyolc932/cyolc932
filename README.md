@@ -1,5 +1,7 @@
 ### Hey 👋, I'm DC 🐏.
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
+
 <a href="https://github.com/cyolc932/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
