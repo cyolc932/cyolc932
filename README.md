@@ -40,7 +40,7 @@
 
 
 <!-- 记录访问数量 -->
-<div align="center"> <img src="[https://visitor-badge.glitch.me/badge?page_id=sun0225SUN](https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1/)" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
 
 
 <!-- --- -->
