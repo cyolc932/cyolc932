@@ -3,17 +3,8 @@
 <!-- 记录访问数量 -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
 
-<a href="https://github.com/cyolc932/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://tx.me/">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
-</a>
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-
-<br />
+<!-- 展示连续提交代码的次数 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyolc932&hide_border=true)](https://git.io/streak-stats)
 <br />
 
 - I am a **Programming rookie** 
