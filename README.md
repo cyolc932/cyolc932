@@ -1,5 +1,4 @@
-### Hey 👋, I'm DC 🐏.
-
+#  🙋 Hey 👋, I'm DC 🐏.
 
 <!-- 自述 -->
 - I am a **Programming rookie** 
@@ -23,6 +22,10 @@
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **🕳@gmail.com**.
+
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 
 <!-- --- -->
