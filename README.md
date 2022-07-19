@@ -1,5 +1,6 @@
 ### Hey 👋, I'm DC 🐏.
 
+<!-- 记录访问数量 -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
 
 <a href="https://github.com/cyolc932/">
