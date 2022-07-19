@@ -1,5 +1,8 @@
 ### Hey 👋, I'm DC 🐏.
 
+<!-- 动态打字效果 -->
+<h1 align="center"> <a href="https://"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome here&center=true&size=27"> </a> </h1>
+
 
 <!-- 展示连续提交代码的次数 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyolc932&hide_border=true)](https://git.io/streak-stats)
