@@ -22,6 +22,7 @@
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **🕳@gmail.com**.
 
+---
 
 # 🚀 Actions
 
@@ -37,6 +38,7 @@
 <!-- 记录访问数量 -->
 https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1/>
 
+---
 
 <!-- 正在学习 -->
 💪 Currently learning: 
@@ -94,11 +96,9 @@ https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+---
 
-
-
+<!-- 语言和工具 -->
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
