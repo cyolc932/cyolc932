@@ -1,7 +1,14 @@
 ### Hey 👋, I'm DC 🐏.
 
-<!-- 动态打字效果 -->
-<h1 align="center"> <a href="https://"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome here&center=true&size=27"> </a> </h1>
+# 🚀 Actions
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyolc932&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
 
 
 <!-- 展示连续提交代码的次数 -->
