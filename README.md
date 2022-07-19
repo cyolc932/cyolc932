@@ -10,7 +10,9 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
+
 <img align="right" alt="jpg" width="250px" src="https://raw.githubusercontent.com/cyolc932/cyolc932/main/Panda.png" />
+
 
 **Talking about Personal Stuffs:**
 
@@ -38,7 +40,7 @@
 
 
 <!-- 记录访问数量 -->
-https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1/>
+<div align="center"> <img src="[https://visitor-badge.glitch.me/badge?page_id=sun0225SUN](https://gv.halberd.cn/cyolc932?theme=digital&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1/)" /> </div>
 
 
 <!-- --- -->
