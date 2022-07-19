@@ -1,20 +1,7 @@
 ### Hey 👋, I'm DC 🐏.
 
-# 🚀 Actions
 
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyolc932&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<br>
-
-
-<!-- 记录访问数量 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
-
-
+<!-- 自述 -->
 - I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
@@ -34,6 +21,23 @@
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **🕳@gmail.com**.
+
+
+# 🚀 Actions
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyolc932&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
+
+
+<!-- 记录访问数量 -->
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cyolc932" /> </div>
+
+
 
 
 
