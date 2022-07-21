@@ -10,7 +10,7 @@
 - **luckily I slowly fell in love with it. ❤️**
 
 
-<img align="right" alt="jpg" width="250px" src="https://raw.githubusercontent.com/cyolc932/cyolc932/main/Panda.png" />
+<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/cyolc932/CDN/Blog/Panda.png" />
 
 
 **Talking about Personal Stuffs:**
